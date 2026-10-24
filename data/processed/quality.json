@@ -1,0 +1,280 @@
+{
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "files": {
+    "caract-2021": {
+      "rows": 56518,
+      "cols": 15
+    },
+    "lieux-2021": {
+      "rows": 56518,
+      "cols": 18
+    },
+    "vehicules-2021": {
+      "rows": 97315,
+      "cols": 11
+    },
+    "usagers-2021": {
+      "rows": 129248,
+      "cols": 16
+    },
+    "caract-2022": {
+      "rows": 55302,
+      "cols": 15
+    },
+    "lieux-2022": {
+      "rows": 55302,
+      "cols": 18
+    },
+    "vehicules-2022": {
+      "rows": 94493,
+      "cols": 11
+    },
+    "usagers-2022": {
+      "rows": 126662,
+      "cols": 16
+    },
+    "caract-2023": {
+      "rows": 54822,
+      "cols": 15
+    },
+    "lieux-2023": {
+      "rows": 70860,
+      "cols": 18
+    },
+    "vehicules-2023": {
+      "rows": 93585,
+      "cols": 11
+    },
+    "usagers-2023": {
+      "rows": 125789,
+      "cols": 16
+    },
+    "caract-2024": {
+      "rows": 54402,
+      "cols": 15
+    },
+    "lieux-2024": {
+      "rows": 70248,
+      "cols": 18
+    },
+    "vehicules-2024": {
+      "rows": 92678,
+      "cols": 11
+    },
+    "usagers-2024": {
+      "rows": 125187,
+      "cols": 16
+    }
+  },
+  "checks": {
+    "2021": {
+      "caract_duplicate_ids": 0,
+      "caract_year_mismatch": 0,
+      "invalid_dates": 0,
+      "invalid_hours": 0,
+      "unknown_department": 0,
+      "metro_coords_outside_france": 0,
+      "lieux_duplicate_ids": 0,
+      "implausible_speed_limits": 76,
+      "usagers_exact_duplicates": 0,
+      "users_without_vehicle_match": 3,
+      "users_orphan_accident": 0,
+      "unknown_severity": 60,
+      "implausible_ages": 1,
+      "accidents_without_people": 0
+    },
+    "2022": {
+      "caract_duplicate_ids": 0,
+      "caract_year_mismatch": 0,
+      "invalid_dates": 0,
+      "invalid_hours": 0,
+      "unknown_department": 0,
+      "metro_coords_outside_france": 0,
+      "lieux_duplicate_ids": 0,
+      "implausible_speed_limits": 78,
+      "usagers_exact_duplicates": 0,
+      "users_without_vehicle_match": 7,
+      "users_orphan_accident": 0,
+      "unknown_severity": 241,
+      "implausible_ages": 4,
+      "accidents_without_people": 0
+    },
+    "2023": {
+      "caract_duplicate_ids": 0,
+      "caract_year_mismatch": 0,
+      "invalid_dates": 0,
+      "invalid_hours": 0,
+      "unknown_department": 0,
+      "metro_coords_outside_france": 0,
+      "lieux_duplicate_ids": 16038,
+      "implausible_speed_limits": 0,
+      "usagers_exact_duplicates": 0,
+      "users_without_vehicle_match": 5,
+      "users_orphan_accident": 0,
+      "unknown_severity": 118,
+      "implausible_ages": 2,
+      "accidents_without_people": 0
+    },
+    "2024": {
+      "caract_duplicate_ids": 0,
+      "caract_year_mismatch": 0,
+      "invalid_dates": 0,
+      "invalid_hours": 0,
+      "unknown_department": 0,
+      "metro_coords_outside_france": 3,
+      "lieux_duplicate_ids": 15846,
+      "implausible_speed_limits": 92,
+      "usagers_exact_duplicates": 0,
+      "users_without_vehicle_match": 1,
+      "users_orphan_accident": 0,
+      "unknown_severity": 0,
+      "implausible_ages": 3,
+      "accidents_without_people": 0
+    }
+  },
+  "missing_pct": {
+    "caract-2021": {
+      "Num_Acc": 0.0,
+      "jour": 0.0,
+      "mois": 0.0,
+      "an": 0.0,
+      "hrmn": 0.0,
+      "lum": 0.0,
+      "dep": 0.0,
+      "agg": 0.0,
+      "atm": 0.01,
+      "lat": 0.0,
+      "long": 0.0
+    },
+    "lieux-2021": {
+      "Num_Acc": 0.0,
+      "catr": 0.0,
+      "vma": 1.55
+    },
+    "vehicules-2021": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catv": 0.0
+    },
+    "usagers-2021": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catu": 0.0,
+      "grav": 0.05,
+      "sexe": 2.37,
+      "an_nais": 2.37
+    },
+    "caract-2022": {
+      "Num_Acc": 0.0,
+      "jour": 0.0,
+      "mois": 0.0,
+      "an": 0.0,
+      "hrmn": 0.0,
+      "lum": 0.0,
+      "dep": 0.0,
+      "agg": 0.0,
+      "atm": 0.0,
+      "lat": 0.0,
+      "long": 0.0
+    },
+    "lieux-2022": {
+      "Num_Acc": 0.0,
+      "catr": 0.0,
+      "vma": 1.62
+    },
+    "vehicules-2022": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catv": 0.0
+    },
+    "usagers-2022": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catu": 0.0,
+      "grav": 0.19,
+      "sexe": 2.17,
+      "an_nais": 2.27
+    },
+    "caract-2023": {
+      "Num_Acc": 0.0,
+      "jour": 0.0,
+      "mois": 0.0,
+      "an": 0.0,
+      "hrmn": 0.0,
+      "lum": 0.0,
+      "dep": 0.0,
+      "agg": 0.0,
+      "atm": 0.01,
+      "lat": 0.0,
+      "long": 0.0
+    },
+    "lieux-2023": {
+      "Num_Acc": 0.0,
+      "catr": 0.0,
+      "vma": 6.46
+    },
+    "vehicules-2023": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catv": 0.0
+    },
+    "usagers-2023": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catu": 0.0,
+      "grav": 0.09,
+      "sexe": 1.93,
+      "an_nais": 2.07
+    },
+    "caract-2024": {
+      "Num_Acc": 0.0,
+      "jour": 0.0,
+      "mois": 0.0,
+      "an": 0.0,
+      "hrmn": 0.0,
+      "lum": 0.0,
+      "dep": 0.0,
+      "agg": 0.0,
+      "atm": 0.0,
+      "lat": 0.0,
+      "long": 0.0
+    },
+    "lieux-2024": {
+      "Num_Acc": 0.0,
+      "catr": 0.0,
+      "vma": 5.17
+    },
+    "vehicules-2024": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catv": 0.0
+    },
+    "usagers-2024": {
+      "Num_Acc": 0.0,
+      "id_vehicule": 0.0,
+      "num_veh": 0.0,
+      "catu": 0.0,
+      "grav": 0.0,
+      "sexe": 1.91,
+      "an_nais": 2.06
+    }
+  },
+  "totals": {
+    "accidents": 221044,
+    "people": 506886,
+    "killed": 13599,
+    "hospitalised": 76750
+  }
+}
