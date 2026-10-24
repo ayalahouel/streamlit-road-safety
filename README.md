@@ -4,7 +4,7 @@
 
 👩‍🎓 **Author:** Eya LAHOUEL · Student ID 20230413 · Cycle ingénieur BIA, EFREI Paris  
 📊 **Dataset:** [BAAC – Bases de données annuelles des accidents corporels de la circulation routière](https://www.data.gouv.fr/datasets/53698f4ca3a729239d2036df/) (ONISR, data.gouv.fr) · Licence Ouverte v2.0  
-🌐 **Live app:** _[add your Streamlit link here]_ · 🎬 **Demo video:** _[add the video link here]_
+
 
 ![Overview and KPIs](photos/01_overview_kpis.png)
 
